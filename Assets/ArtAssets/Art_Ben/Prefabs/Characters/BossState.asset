@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: BossState
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: BossHair
+    m_Hash: 1562497726
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -7892774998562666626, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 7987330631189027151, guid: 9772804c43aa8fd439d6a4015f3c4f12, type: 3}
+  - m_Name: Crown
+    m_Hash: -1850174752
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -300456381665416717, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 0}
+  - m_Name: UpperClothes
+    m_Hash: 1297038448
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -2902241205707708501, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 2969549936002069895, guid: 9772804c43aa8fd439d6a4015f3c4f12, type: 3}
+  - m_Name: Face
+    m_Hash: -1524181927
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 2101958223127722086, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: -7153153630259819844, guid: 9772804c43aa8fd439d6a4015f3c4f12, type: 3}
+  - m_Name: SkirtLeft
+    m_Hash: -1882152631
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 8238282040178683203, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: -1394607291907863317, guid: 9772804c43aa8fd439d6a4015f3c4f12, type: 3}
+  - m_Name: Eyes
+    m_Hash: 120101800
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -6787310408546031620, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: -7742115202576416998, guid: 9772804c43aa8fd439d6a4015f3c4f12, type: 3}
+  - m_Name: SkirtLeftBottom
+    m_Hash: 668892980
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -6152610094165887388, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 0}
+  - m_Name: SkirtRightBottom
+    m_Hash: 1605757382
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -4892156142342625122, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 0}
+  - m_Name: SkirtRight
+    m_Hash: -128527860
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 7705360323717265066, guid: a73981fc1072b66429e7ff50a215d562, type: 3}
+    - m_Name: State2
+      m_Hash: 934609789
+      m_Sprite: {fileID: 0}

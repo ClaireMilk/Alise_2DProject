@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - weapon
+  - enemyWeapon
+  - Enemy
+  - Confiner
+  - Door
+  - CM
+  - ParryCollider
+  - Thorn
+  - Boss
+  - Wall
+  - Thorn_Parry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Ground
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 129828431
+    locked: 0
+  - name: Platforms
+    uniqueID: 4088543513
+    locked: 0
+  - name: PlatformShadow
+    uniqueID: 686293769
+    locked: 0
+  - name: Enemy
+    uniqueID: 3496882447
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FrontBackground
+    uniqueID: 3895867831
+    locked: 0
+  - name: NoLight
+    uniqueID: 1283760719
+    locked: 0
+  - name: Grass
+    uniqueID: 239051411
+    locked: 0
+  - name: Mushroom
+    uniqueID: 4224282323
+    locked: 0
+  - name: Text
+    uniqueID: 879428425
+    locked: 0

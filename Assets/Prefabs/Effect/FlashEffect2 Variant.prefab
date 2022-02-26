@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6692245345263742717
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 240325182512045433, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 639.8889
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 283.4009
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280148429019221294, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443859407429430692, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
+      propertyPath: m_Name
+      value: FlashEffect2 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2eaa2191fbf1b8b46b575afe35e30edd, type: 3}
